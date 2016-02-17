@@ -19,4 +19,5 @@
 * Open command prompt 
 * Type git only
 * will result in a short help page with a list of common commands.
+![Help Page](image1.png)
 * If this command show nothing then try to reinstall Git again
